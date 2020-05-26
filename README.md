@@ -11,7 +11,7 @@
 - [About Project](#about-project)
 - [Starting](#starting)
   - [Installation](#installation)
-  - [Language Used](#language-used)
+  - [Languages Used](#languages-used)
   - [How to Use](#how-to-use)
   - [Best Pratices](#best-pratices)
   - [Files by directories](#files-by-directories)
@@ -49,7 +49,7 @@ pip3 install --upgrade robotframework-seleniumlibrary
 https://chromedriver.chromium.org/downloads
 ```
 
-### Language used
+### Languages used
 
 - [Robot Framework (Python Version)](https://robotframework.org/)
 - [Teasy Language (Generate Robot Files)](https://github.com/yuryalencar/Teasy)
